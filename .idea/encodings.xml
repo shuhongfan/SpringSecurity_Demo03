@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/acl-parent/common/service-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/common/spring-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/infrastructure/api-geteway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/service/service-acl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/acl-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springsecurity-csrf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springsecurity-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springsecurity-web/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

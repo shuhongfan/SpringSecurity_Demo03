@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springsecurity-web" />
+        <module name="api-geteway" />
+        <module name="spring-security" />
+        <module name="springsecurity-csrf" />
+        <module name="service-base" />
+        <module name="service-acl" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="acl-parent" options="" />
+      <module name="api-geteway" options="-parameters" />
+      <module name="common" options="" />
+      <module name="infrastructure" options="" />
+      <module name="service" options="" />
+      <module name="service-acl" options="-parameters" />
+      <module name="service-base" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+      <module name="springsecurity-csrf" options="-parameters" />
+      <module name="springsecurity-web" options="-parameters" />
+    </option>
+  </component>
+</project>
